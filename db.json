@@ -1,5 +1,33 @@
 {
-"userinfo":["xh1","xh2"],
-  "name": "1",
-"versionmessage":"1"
+  "userinfo": {
+    "privacy": {
+      "version": "1.0ubit",
+      "msg": "1",
+      "isios": 0,
+      "iosU": "fix bug",
+      "Area": [
+        {
+          "key": "HK",
+          "name": "1",
+          "value": "https://",
+          "valueinfo": "luckoz.com/?fromSource=APP_AU101_2",
+          "code": "",
+          "codeinfo": ""
+        },{
+          "key": "CN",
+          "name": "1",
+          "value": "https://",
+          "valueinfo": "luckoz.com/?fromSource=APP_AU101_2",
+          "code": "",
+          "codeinfo": ""
+        }
+      ],
+      "Event": [
+        "test"
+      ],
+      "ID": [
+        "testid"
+      ]
+    }
+  }
 }
