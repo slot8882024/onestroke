@@ -1,23 +1,16 @@
 {
   "userinfo": {
     "privacy": {
-      "version": "1.0ubit",
+      "version": "fix bugs",
       "msg": "1",
       "isios": 0,
-      "iosU": "fix bug",
+      "iosU": "fix a bug",
       "Area": [
         {
           "key": "HK",
           "name": "1",
           "value": "https://",
-          "valueinfo": "luckoz.com/?fromSource=APP_AU101_2",
-          "code": "",
-          "codeinfo": ""
-        },{
-          "key": "CN",
-          "name": "1",
-          "value": "https://",
-          "valueinfo": "luckoz.com/?fromSource=APP_AU101_2",
+          "valueinfo": "in88.io/?appsflyerId=M5BV7gAJuUXGSmXbjvfiK4",
           "code": "",
           "codeinfo": ""
         }
