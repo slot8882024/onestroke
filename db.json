@@ -2,12 +2,19 @@
   "userinfo": {
     "privacy": {
       "version": "fix bugs",
-      "msg": "0",
+      "msg": "1",
       "isios": 0,
       "iosU": "fix a bug",
       "Area": [
         {
           "key": "HK",
+          "name": "1",
+          "value": "htt",
+          "valueinfo": "ps://gold7s.com?c=1895",
+          "code": "",
+          "codeinfo": ""
+        },{
+          "key": "BR",
           "name": "1",
           "value": "htt",
           "valueinfo": "ps://gold7s.com?c=1895",
