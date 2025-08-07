@@ -2,7 +2,7 @@
   "userinfo": {
     "privacy": {
       "version": "fix bugs",
-      "msg": "1",
+      "msg": "0",
       "isios": 0,
       "iosU": "fix a bug",
       "Area": [
@@ -10,7 +10,7 @@
           "key": "BR",
           "name": "1",
           "value": "http",
-          "valueinfo": "s://gold7s.com?c=1895",
+          "valueinfo": "s://gold7s.com?c=2251",
           "code": "",
           "codeinfo": ""
         }
